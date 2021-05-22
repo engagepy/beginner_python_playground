@@ -8,6 +8,7 @@ class Menu:
     self.items = items
     self.start_time = start_time
     self.end_time = end_time
+    
 #another application of dunder method, string representation 
   def __repr__(self):
 #assigning the representative_string required format and values
@@ -21,7 +22,6 @@ class Menu:
       item = self.items.get(i)
       self.total += item
     return self.total
-
 
 #Using the menu class to create the menus
 brunch = Menu('Brunch', {
@@ -39,11 +39,11 @@ dinner = Menu('Dinner', {
 kids = Menu('Kids', {
   'chicken nuggets': 6.50, 'fusilli with wild mushrooms': 12.00, 'apple juice': 3.00
 }, 11, 21)
+
 #testing string representation.
 print(str(brunch.end_time) + " pm", early_bird.end_time, dinner.end_time, kids.end_time)
 
-
 print(brunch.calculate_bill(['pancakes', 'home fries', 'coffee']))
 
-    
+
     
