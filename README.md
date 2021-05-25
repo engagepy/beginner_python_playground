@@ -21,7 +21,7 @@ One doesn't have to learn code to use code. Here are some steps if you wish to d
 
 6. Each file on running puts the output on the terminal, so look out for that and play along. Some are calculators, some games and some just for fun experiments. 
 
-7. Some files may require access tokens and other parameters that are API/system specific. So look out for those and feel free to ask for help @ zorawarpurohit.com
+7. Some files may require access tokens and other parameters that are API/system specific. So look out for those and feel free to ask for help @ https://www.zorawarpurohit.com
 
 > Most importantly, if you undertake even a few of these steps then you have the calling to code. It is a bug to eliminate bugs, no way to learn bests; diving right in!
 
