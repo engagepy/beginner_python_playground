@@ -7,7 +7,7 @@ This code path started around >30< with an objective to build real solutions, ad
 
 This Repo contains .py files. Each representing an independent code project apt for beginners. 
 
-One neccessarily does not need to learn to use code. Here are some steps if you wish to dip your feet ..
+One doesn't have to learn code to use code. Here are some steps if you wish to dip your feet ..
 
 1. You can indulge and test the water by simply downloading python from : https://www.python.org/downloads/
 
