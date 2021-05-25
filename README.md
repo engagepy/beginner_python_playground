@@ -3,9 +3,9 @@
 **Intro:**
 
 > A collection of code written in my learning phase. Mostly python, for it had me at first sight. My journey is not usual, I spent 20s setting up and operating businesses, teaching scuba and making bread in the non code world. 
-This code path started around >30< with an objective to build real solutions, add to the open source community, and to hopefully contribute lines of code to something meaningful.  
+This code path started around >30< with an objective to build real solutions, add to the open source community, and to hopefully contribute lines of code to something meaningful. This Repo specifically contains .py files so far. Each representing an independent code project apt for beginners. 
 
-This Repo contains .py files. Each representing an independent code project apt for beginners. 
+**Steps to Initiate:** *(Don't Over Think It. It's Easier Thank you Think)*
 
 One doesn't have to learn code to use code. Here are some steps if you wish to dip your feet ..
 
@@ -25,7 +25,7 @@ One doesn't have to learn code to use code. Here are some steps if you wish to d
 
 > Most importantly, if you undertake even a few of these steps then you have the calling to code. It is a bug to eliminate bugs, no way to learn bests; diving right in!
 
-Since this is my first repo, I hope to keep a connect with it. So I am leaving my future goals below.
+> Since this is my first repo, I hope to keep a connect with it. So I am leaving my future goals below.
 I'll update and mark them as I progress. That way if you get past learning and understanding all the code in this repository, you have a roadmap to follow further. What truly set me on this path of learning is nudges from my cousin Sid and Codecademy.
 If you find the bug in you: https://www.codecademy.com/catalog/language/python , I'll keep Sid out of this. For now ;)
 
