@@ -26,7 +26,7 @@ One doesn't have to learn code to use code. Here are some steps if you wish to d
 > Most importantly, if you undertake even a few of these steps then you have the calling to code. It is a bug to eliminate bugs, no way to learn bests; diving right in!
 
 Since this is my first repo, I hope to keep a connect with it. So I am leaving my future goals below.
-I'll update and mark them as I progress. That way if you get past learning and understanding all the code in this repository, you have a roadmap to follow further this world. What truly set me on this path of learning is nudges from my cousin Sid and Codecademy.
+I'll update and mark them as I progress. That way if you get past learning and understanding all the code in this repository, you have a roadmap to follow further. What truly set me on this path of learning is nudges from my cousin Sid and Codecademy.
 If you find the bug in you: https://www.codecademy.com/catalog/language/python , I'll keep Sid out of this. For now ;)
 
 - [x] Finish Python Beginners Course
