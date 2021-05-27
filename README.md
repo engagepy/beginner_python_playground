@@ -27,7 +27,7 @@ One doesn't have to learn code to use code. Here are some steps if you wish to d
 
 > Since this is my first repo, I hope to keep a connect with it. So I am leaving my future goals below.
 I'll update and mark them as I progress. That way if you get past learning and understanding all the code in this repository, you have a roadmap to follow further. What truly set me on this path of learning is nudges from my cousin Sid and Codecademy.
-If you find the bug in you: https://www.codecademy.com/catalog/language/python , I'll keep Sid out of this. For now ;)
+If you find the bug in you: https://www.codecademy.com/catalog/language/python , I'll keep Sid out of this for now ;)
 
 - [x] Finish Python Beginners Course
 - [x] Learn Terminal and Github
