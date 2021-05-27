@@ -5,7 +5,7 @@
 > A collection of code written in my learning phase. Mostly python, for it had me at first sight. My journey is not usual, I spent 20s setting up and operating businesses, teaching scuba and making bread in the non code world. 
 This code path started around >30< with an objective to build real solutions, add to the open source community, and to hopefully contribute lines of code to something meaningful. This Repo specifically contains .py files so far. Each representing an independent code project apt for beginners. 
 
-**Steps to Initiate:** *(Don't Over Think It. It's Easier Thank you Think)*
+**Steps to Initiate:** *(Don't Over Think It. It's Easier Than you Think)*
 
 One doesn't have to learn code to use code. Here are some steps if you wish to dip your feet ..
 
