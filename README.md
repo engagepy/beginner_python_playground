@@ -11,7 +11,7 @@ One doesn't have to learn code to use code. Here are some steps if you wish to d
 
 1. Start by downloading python from : https://www.python.org/downloads/ . It is safe, open source, popular and going places. Downloads are secure so ease into it. 
 
-2. Now download this repo as a .zip by clicking on the greeen code button. Bottom most option should say "Download Zip"
+2. Now download this repo as a .zip by clicking on the green code button. Bottom most option should say "Download Zip"
 
 3. Once in your downloads folder extract it to the desktop *(recommended for ease of locating in terminal)* or any location you prefer. 
 
