@@ -17,8 +17,6 @@ for i in range(20):
     time.sleep(0.1)
     bar.update(i)
 
-
-
 WebsiteStatus = namedtuple('WebsiteStatus', ['status_code', 'reason'])
 names = ['astratechz', 'multitechnoservices', 'northlandindia', 'nivaunited', 'andamandoorstep', 'hpdoorstep', 'livenit', ]
 namesin = [ 'goandamans', 'multitechno','singhotels']
@@ -41,9 +39,6 @@ for name in names:
     for i in range(20):
         time.sleep(0.1)
         bar.update(i)
-
-
-    
     site = 'http://{}.com'.format(name)
     website_status = get_status(site)
     print("{0:30} {1:10} {2:10}".format(site, website_status.status_code, website_status.reason))
@@ -55,9 +50,6 @@ for namein in namesin:
         time.sleep(0.01)
         bar.update(i)
 
-
-
     site = 'http://{}.in'.format(namein)
     website_status = get_status(site)
     print("{0:30} {1:10} {2:10}".format(site, website_status.status_code, website_status.reason))
-    
