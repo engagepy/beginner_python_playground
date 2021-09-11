@@ -1,12 +1,5 @@
 # Python_Learning
 
-Don't have to learn code to use code. Here are some steps to test the waters.
-
-1. Start by downloading python from : https://www.python.org/downloads/ . It is safe, open source, popular and going places. Downloads are secure so ease into it. 
-2. Now download this repo (https://github.com/zora89/python_learning) as a .zip by clicking on the down arrow next to the green code button -> 'Download Zip'
-3. Continue with instructions on the repository page. 
-> If you undertake even a few steps today, you have the calling to code. It is a bug to eliminate bugs, no way to learn bests; diving right in!
-
 **Intro:**
 
 > A collection of code written in my learning phase. Mostly python, for it had me at first sight. My journey is not usual, I spent 20s setting up and operating businesses, teaching scuba and making bread in the non code world. 
