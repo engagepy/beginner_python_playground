@@ -34,10 +34,10 @@ If you find the bug in you: https://www.codecademy.com/catalog/language/python ,
 - [x] Open pull requests with forked Repos
 - [x] Use API, make GET, POST requests
 - [x] Use twilio API, scrape data & send to pals
-- [ ] Learn Flask
-- [ ] Build a web app
-- [ ] Host on a server
-- [ ] Share with pals
+- [x] Learn Flask
+- [x] Build a web app
+- [x] Host on a server
+- [x] Share with pals
 
 
 
