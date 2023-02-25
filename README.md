@@ -1,12 +1,16 @@
-# Python_Learning
+# Learn Python Basics with Practical Executable Code
 
-**Intro:**
-
-> A collection of code written in my learning phase. Mostly python, for it had me at first sight. This Repo specifically contains .py files so far. Each representing an independent code project apt for beginners. Try studying it and recreating it with a variation. Feel free to add comment and create pull requests. 
+### Each `name.py` file is an independent python script for you to try out, with no correlation to another.
+#### Take each `name.py` as an independent project apt for beginners. Follow these simple steps to master them for real:
+- Study the code in a particular `name.py`, start in any order. 
+- Google the parts you do not understand initially, once comfortable start referring to the official documentation. 
+- Rewrite the code on your local machine and try pushing it to your own fork of this repo
+- Help improve the comments and examples in each `name.py` 
+- Confident of your contribution -> Create a pull request
 
 **Steps to Initiate:** *(Don't Over Think It. It's Easier Than you Think)*
 
-One doesn't have to learn code to use code. Here are some steps if you wish to dip your feet ..
+You don't have to learn, if the idea is play!
 
 1. Start by downloading python from : https://www.python.org/downloads/. It is safe, open source, popular and going places.
 
@@ -20,13 +24,13 @@ One doesn't have to learn code to use code. Here are some steps if you wish to d
 
 6. Each file when executed via method in step 5, relays the output on the terminal itself, so look out for that and play along. You'll find useful tax and partner share calculators, few nostalgic games and other fun experiments. Each line I've understood, written and enjoyed, in that order. 
 
-7. Some files may require access tokens and other parameters that are API/system specific. So look out for those and feel free to ask for help @ https://www.zorawarpurohit.com
+7. Some files may require access tokens and other parameters that are API/system specific. So look out for those and feel free to ask for help @ `mailzora@pm.me`
 
-> Most importantly, if you undertake even a few of these steps then you have the calling to code. It is a bug to eliminate bugs, no way to learn bests; diving right in!
+> Most importantly, if you undertook even a few of these steps then you have the calling to code. Nothing beats diving right in, it is how we learn. 
 
-> Since this is my first repo, I hope to keep a connect with it. So I am leaving my future goals below.
-I'll update and mark them as I progress. That way if you get past learning and understanding all the code in this repository, you have a roadmap to follow further. What truly set me on this path of learning is nudges from my cousin Sid and Codecademy.
-If you find the bug in you: https://www.codecademy.com/catalog/language/python , I'll keep Sid out of this for now ;)
+> Since this is my first repo, I hope to keep a connect with it, am also leaving my future goals below which hopefully I've achieved by the time you're reading these. If they're all checked means I've continued learning and you can too. 
+
+> I'll update and mark them as I progress. That way if you get past learning and understanding all the code in this repository, you have a roadmap to follow further. What truly set me on this path were lesson on `Codecademy` -> https://www.codecademy.com/catalog/language/python 
 
 - [x] Finish Python Beginners Course
 - [x] Learn Terminal and Github
