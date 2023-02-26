@@ -20,7 +20,7 @@ You don't have to learn, if the idea is play!
 
 4. Now head to the terminal or command, navigate to the directory python_learning you just extracted. *Don't know how to? Learn Terminal(Mac/Linux) here: https://www.youtube.com/watch?v=5XgBd6rjuDQ Learn Command(Windows) here: https://www.youtube.com/watch?v=MBBWVgE0ewk*
 
-5. By now you should be in the directory using command or terminal. Now type: `python filename.py`   *|| Replace `file name` with any select file from this repo. Make sure it is precise in spelling and case, as is works best. ||*
+5. By now you should be in the directory using command or terminal. Now type: `python filename.py`. Replace `file name` with any select file from this repo. Make sure it is precise in spelling and case, as is works best.
 
 6. Each file when executed via method in step 5, relays the output on the terminal itself, so look out for that and play along. You'll find useful tax and partner share calculators, few nostalgic games and other fun experiments. Each line I've understood, written and enjoyed, in that order. 
 
